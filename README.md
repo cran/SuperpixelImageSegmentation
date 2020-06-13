@@ -1,5 +1,4 @@
 
-
 ## SuperpixelImageSegmentation
 <br>
 
@@ -35,7 +34,7 @@ install.packages("SuperpixelImageSegmentation")
 
 ```R
 
-devtools::install_github('mlampros/SuperpixelImageSegmentation')
+remotes::install_github('mlampros/SuperpixelImageSegmentation')
 
 
 ```
