@@ -1,9 +1,8 @@
 
-
 ## SuperpixelImageSegmentation
 <br>
 
-The R / Rcpp code of the *SuperpixelImageSegmentation* package is based primarily on the article ["Image Segmentation using SLIC Superpixels and Affinity Propagation Clustering", Bao Zhou, International Journal of Science and Research (IJSR), 2013](https://pdfs.semanticscholar.org/6533/654973054b742e725fd433265700c07b48a2.pdf).
+The R / Rcpp code of the *SuperpixelImageSegmentation* package is based primarily on the article ["Image Segmentation using SLIC Superpixels and Affinity Propagation Clustering", Bao Zhou, International Journal of Science and Research (IJSR), 2013](https://www.ijsr.net/archive/v4i4/SUB152869.pdf).
 
 I wrote a [blog post](http://mlampros.github.io/2018/11/09/Image_Segmentation_Superpixels_Clustering/) explaining how to take advantage of the R / Rcpp code of the *SuperpixelImageSegmentation* package.
 
