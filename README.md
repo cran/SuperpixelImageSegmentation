@@ -76,3 +76,25 @@ Use the following link to report bugs/issues,
 <br><br>
 
 [https://github.com/mlampros/SuperpixelImageSegmentation/issues](https://github.com/mlampros/SuperpixelImageSegmentation/issues)
+
+<br>
+
+### **Citation:**
+
+If you use the code of this repository in your paper or research please cite both **SuperpixelImageSegmentation** and the **original articles / software** `https://CRAN.R-project.org/package=SuperpixelImageSegmentation`:
+
+<br>
+
+```R
+@Manual{,
+  title = {{SuperpixelImageSegmentation}: Image Segmentation using
+    Superpixels, Affinity Propagation and Kmeans Clustering},
+  author = {Lampros Mouselimis},
+  year = {2022},
+  note = {R package version 1.0.5},
+  url =
+    {https://CRAN.R-project.org/package=SuperpixelImageSegmentation},
+}
+```
+
+<br>
